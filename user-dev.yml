@@ -22,4 +22,4 @@ eureka:
       defaultZone: http://127.0.0.1:10086/eureka
 
 test:
- seyong: 123
+ seyong: 123456
